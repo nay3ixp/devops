@@ -13,3 +13,6 @@
 <if the status is failed=1>
 <the app wasn't completely bounced>
 <also can check throught the box using credentials>
+<fix the issue why the app is not bounced>
+<rebuild the job again>
+<now you can see the job success>
