@@ -3,4 +3,6 @@
 <click on build and parameters>
 <enter the parameters>
 <build>
-<check the job>
+<check the status of job>
+<if job failed>
+<need to check the error>
